@@ -56,7 +56,7 @@ class CasaServiceTest {
         Casa resultado = casaService.obtenerCasaPorClave(2);
 
         assertNotNull(resultado);
-        assertEquals("Europa", resultado.getNombre());
+        assertEquals("Slytherin", resultado.getNombre());
     }
 
     // =========================
