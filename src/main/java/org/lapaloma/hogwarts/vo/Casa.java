@@ -1,4 +1,4 @@
-package org.lapaloma.mapamundi.vo;
+package org.lapaloma.hogwarts.vo;
 
 /**
  *

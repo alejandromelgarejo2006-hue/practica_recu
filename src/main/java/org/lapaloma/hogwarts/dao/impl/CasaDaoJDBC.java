@@ -10,7 +10,7 @@ import java.util.List;
 import javax.sql.DataSource;
 
 import org.lapaloma.hogwarts.dao.ICasaDAO;
-import org.lapaloma.mapamundi.vo.Casa;
+import org.lapaloma.hogwarts.vo.Casa;
 import org.springframework.stereotype.Repository;
 
 @Repository

@@ -2,7 +2,7 @@ package org.lapaloma.hogwarts.dao;
 
 import java.util.List;
 
-import org.lapaloma.mapamundi.vo.Casa;
+import org.lapaloma.hogwarts.vo.Casa;
 
 public interface ICasaDAO {
     public Casa obtenerCasaPorClave(int identificador);
